@@ -1,3 +1,4 @@
+```text
 $ whoami
 Jorge Mendez
 Frontend Developer | Based in Valletta, Malta
@@ -30,3 +31,4 @@ $ echo "Let's build something weird and wonderful."
 Let's build something weird and wonderful.
 
 $ exit
+```
